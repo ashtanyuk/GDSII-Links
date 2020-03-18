@@ -14,12 +14,16 @@
 - [GDS3D](https://sourceforge.net/projects/gds3d)
 - [GDS2-Score](https://github.com/mit-ll/gds2-score)
 - [Limbo Library for VLSI CAD Design](https://github.com/limbo018/Limbo)
+- [GDSLatexConverter](https://github.com/Aypac/GDSLatexConverter)
+- [HDL to GDS methodology/framework utility](https://github.com/c-z/rtl2gds)
+- [QuickLook Generator for GDSII files](https://bitbucket.org/cdelker/gds-quicklook/src/master/)
 
 ## Utilities
 
 - [Magic VLSI Layout Tool](https://github.com/RTimothyEdwards/magic)
 - [OpenROAD-Utilities](https://github.com/The-OpenROAD-Project-Attic/OpenROAD-Utilities)
 - [KLayout EDA Tool](https://github.com/KLayout)
+- [Netgen complete LVS tool for comparing SPICE or verilog netlists](https://github.com/RTimothyEdwards/netgen)
 
 ## LEF,DEF
 
@@ -28,6 +32,7 @@
 - [Design/Library Exchange Formats syntax files](https://github.com/tarikgraba/vim-lefdef)
 - [This project uses Verilog netlist code and LEF file in order to generate a DEF file.](https://github.com/maram-abbas/VerilogNetlist_to_DEF)
 - [Verilog Netlist to DEF](https://github.com/ahmednaser97/Verilog-to-DEF-Soft-Macro-Floor-planner)
+- [A Lef/Def Parser](https://github.com/jinwookjungs/lefdef_util)
 
 
 
@@ -35,6 +40,7 @@
 
 - [Layout Versus Schematic](https://www.wikiwand.com/en/Layout_Versus_Schematic
 - [Guardian LVS](https://www.silvaco.com/examples/guardianlvs/section1/example1/index.html)
+- [Layout Versus Schematic Tutorial](https://www.boost.org/doc/libs/1_71_0/libs/polygon/doc/gtl_tutorial.htm)
 
 ## Hypergraphs
 
@@ -47,7 +53,7 @@
 - [IGraph](https://igraph.org/c/doc/igraph-Isomorphism.html)
 - [hglib is an open-source C++ library to manipulate hypergraphs](https://gitlab.inria.fr/kirikomics/hglib)
 - [Hypergraphs based on generalized hyperedges](https://github.com/ESANPI2015/hypergraph)
-- [C++ Hypergraph modelling Library using Boost and OpenMP](Hypergraphs based on generalized hyperedges)
+- [C++ Hypergraph modelling Library using Boost and OpenMP](https://github.com/alex-87/HyperGraphLib)
 
 ## Education
 
@@ -56,6 +62,7 @@
 - [Jim Plusquellic](http://ece-research.unm.edu/jimp/vlsi_synthesis/)
 - [Robert Reese](http://my.ece.msstate.edu/faculty/reese)
 - [Математические модели и методы синтеза СБИС](http://mk.cs.msu.ru/index.php/Математические_модели_и_методы_синтеза_СБИС)
-
+- [Tim's Home Page at Open Circuit Design](http://opencircuitdesign.com/~tim/)
+- [R. Timothy Edwards](https://github.com/RTimothyEdwards)
 
 
