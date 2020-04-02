@@ -33,6 +33,11 @@
 - [This project uses Verilog netlist code and LEF file in order to generate a DEF file.](https://github.com/maram-abbas/VerilogNetlist_to_DEF)
 - [Verilog Netlist to DEF](https://github.com/ahmednaser97/Verilog-to-DEF-Soft-Macro-Floor-planner)
 - [A Lef/Def Parser](https://github.com/jinwookjungs/lefdef_util)
+- [A web-based DEF Viewer](https://github.com/claude-abounegm/DEF-Viewer)
+- [v2def: converts verilog gate level netlist into a DEF file](https://github.com/moussa97/v2def)
+- [DefFileConverter: converting json file to Def file](https://github.com/mobsella/DefFileConverter)
+- [DEF_RT and Splitter](https://github.com/DfX-NYUAD/SM_DEF_tools)
+
 
 
 
