@@ -13,10 +13,14 @@
 - [GDSII_Reader is a set of C++ source and header files to read GDSII files format](https://github.com/TopGun-DICD/GDSII_Reader)
 - [GDS3D](https://sourceforge.net/projects/gds3d)
 - [GDS2-Score](https://github.com/mit-ll/gds2-score)
-- [Limbo Library for VLSI CAD Design](https://github.com/limbo018/Limbo)
+- [Library for VLSI CAD Design](https://github.com/limbo018/Limbo)
 - [GDSLatexConverter](https://github.com/Aypac/GDSLatexConverter)
 - [HDL to GDS methodology/framework utility](https://github.com/c-z/rtl2gds)
 - [QuickLook Generator for GDSII files](https://bitbucket.org/cdelker/gds-quicklook/src/master/)
+- [Open-source layout generation flow (RTL-to-GDS)](https://github.com/The-OpenROAD-Project)
+- [GDS Render](https://github.com/Railcrafti/gds-render)
+
+
 
 ## Utilities
 
@@ -24,6 +28,9 @@
 - [OpenROAD-Utilities](https://github.com/The-OpenROAD-Project-Attic/OpenROAD-Utilities)
 - [KLayout EDA Tool](https://github.com/KLayout)
 - [Netgen complete LVS tool for comparing SPICE or verilog netlists](https://github.com/RTimothyEdwards/netgen)
+- [IC layout editor supporting GDS, OASIS and CIF formats.](http://www.toped.org.uk/index.html)
+- [Glade](https://peardrop.co.uk/glade/)
+- [VLSI and ASIC Technology Standard Cell Library Design](http://www.vlsitechnology.org/index.html)
 
 ## LEF,DEF
 
@@ -37,15 +44,29 @@
 - [v2def: converts verilog gate level netlist into a DEF file](https://github.com/moussa97/v2def)
 - [DefFileConverter: converting json file to Def file](https://github.com/mobsella/DefFileConverter)
 - [DEF_RT and Splitter](https://github.com/DfX-NYUAD/SM_DEF_tools)
-
-
+- [Source code for LEF/DEF](https://github.com/bkoppelmann/lefdef-toolkit)
+- [A Lef/Def Parser](https://github.com/jinwookjungs/lefdef_util)
+- [The LEF/DEF utilities](https://github.com/onedayatatime0923/Lef-Def)
+- [The Tool extracts interconnect parastics from DEF anf LEF into SPEF](https://github.com/ehossam/def2spef)
+- [LEF-DEF-parser](https://github.com/RazKarapetyan/LEF-DEF-parser)
+- [lef_def_area](https://github.com/grigortovmasian/lef_def_area)
+- [def-parser](https://github.com/HITK-Compiler/def-parser)
 
 
 ## LVS Links
 
-- [Layout Versus Schematic](https://www.wikiwand.com/en/Layout_Versus_Schematic
+- [Layout Versus Schematic](https://www.wikiwand.com/en/Layout_Versus_Schematic)
 - [Guardian LVS](https://www.silvaco.com/examples/guardianlvs/section1/example1/index.html)
 - [Layout Versus Schematic Tutorial](https://www.boost.org/doc/libs/1_71_0/libs/polygon/doc/gtl_tutorial.htm)
+
+## LVS Software
+
+- Assura, Dracula and PVS by Cadence Design Systems
+- Calibre by Mentor Graphics
+- Quartz LVS by Magma Design Automation
+- IC Validator by Synopsys
+- PowerLVS by Polyteda LLC|POLYTEDA LLC
+- VERI and HVERI by Zeni EDA
 
 ## Hypergraphs
 
@@ -69,5 +90,6 @@
 - [Математические модели и методы синтеза СБИС](http://mk.cs.msu.ru/index.php/Математические_модели_и_методы_синтеза_СБИС)
 - [Tim's Home Page at Open Circuit Design](http://opencircuitdesign.com/~tim/)
 - [R. Timothy Edwards](https://github.com/RTimothyEdwards)
+- [The Electric User's Manual](https://www.staticfreesoft.com/documentsUser.html#!)
 
 
