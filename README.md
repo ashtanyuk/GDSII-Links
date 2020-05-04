@@ -19,6 +19,7 @@
 - [QuickLook Generator for GDSII files](https://bitbucket.org/cdelker/gds-quicklook/src/master/)
 - [Open-source layout generation flow (RTL-to-GDS)](https://github.com/The-OpenROAD-Project)
 - [GDS Render](https://github.com/Railcrafti/gds-render)
+- [This is a library which is used to read/write layout file in GDSII format.](https://github.com/billowen/GDS)
 
 
 
